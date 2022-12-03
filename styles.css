@@ -85,6 +85,6 @@ img {
 
   @media (max-width: 360px){
     footer {
-        position: fixed;
+        top: 2rem;
       }
   }
