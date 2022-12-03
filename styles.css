@@ -84,7 +84,7 @@ img {
   /* for small devices */
 
   @media (max-width: 360px){
-    div{
+    body{
         text-align: center;
     }
     footer {
