@@ -84,6 +84,9 @@ img {
   /* for small devices */
 
   @media (max-width: 360px){
+    div{
+        text-align: center;
+    }
     footer {
         top: 50rem;
       }
